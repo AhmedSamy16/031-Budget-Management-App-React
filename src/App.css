@@ -1,0 +1,6 @@
+
+@media (max-width: 768px) {
+    .alert {
+        min-height: 81px !important;
+    }
+}
